@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bhavesh/StudioProjects/assignmentVer4/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Users/Bhavesh/StudioProjects/assignmentVer4/app/src/main/res/drawable/ic_hello___logos.xml" value="0.18504273504273505" />
+        <entry key="..\:/Users/Bhavesh/StudioProjects/assignmentVer4/app/src/main/res/drawable/ic_hello___logos_transparent.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Bhavesh/StudioProjects/assignmentVer4/app/src/main/res/drawable/splash_screen.xml" value="0.18504273504273505" />
+        <entry key="..\:/Users/Bhavesh/StudioProjects/assignmentVer4/app/src/main/res/layout/activity_edit.xml" value="0.25" />
+        <entry key="..\:/Users/Bhavesh/StudioProjects/assignmentVer4/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Bhavesh/StudioProjects/assignmentVer4/app/src/main/res/layout/activity_new_method.xml" value="0.12771739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
